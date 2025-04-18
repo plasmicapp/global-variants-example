@@ -1,5 +1,11 @@
 This is a Next.js project bootstrapped with [`create-plasmic-app`](https://www.npmjs.com/package/create-plasmic-app).
 
+Read the full documentation for this example [here](https://docs.plasmic.app/learn/global-contexts/)
+
+Demo: https://global-variants-example.vercel.app/
+
+Project: https://studio.plasmic.app/projects/3eN1sUnHPUzmh1RU92DXZZ
+
 ## Getting Started
 
 First, run the development server:
